@@ -56,7 +56,3 @@ Sebagai Junior Backend Developer, Anda akan bekerja sama dengan tim engineering 
 ## Cara Melamar
 
 Kirimkan CV terbaru dan portofolio (tautan GitHub / proyek pribadi) ke: rajaemasindonesia@gmail.com
-
-* **Email:** hr@perusahaananda.com
-* **Subjek Email:** `Junior Backend Developer - [Nama Anda]`
-* **Batas Akhir Pengiriman:** [Tanggal/Bulan/Tahun]
